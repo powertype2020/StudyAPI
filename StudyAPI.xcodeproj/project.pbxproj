@@ -16,6 +16,7 @@
 		6D6C9A7C28F3FCA000C37455 /* StudyAPIUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D6C9A7B28F3FCA000C37455 /* StudyAPIUITestsLaunchTests.swift */; };
 		6D6C9A8928F4037600C37455 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D6C9A8828F4037600C37455 /* Model.swift */; };
 		6D6C9A8B28F4038500C37455 /* ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D6C9A8A28F4038500C37455 /* ViewModel.swift */; };
+		6D6C9A8D28F4257A00C37455 /* CustomView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D6C9A8C28F4257A00C37455 /* CustomView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,7 @@
 		6D6C9A7B28F3FCA000C37455 /* StudyAPIUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudyAPIUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		6D6C9A8828F4037600C37455 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 		6D6C9A8A28F4038500C37455 /* ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModel.swift; sourceTree = "<group>"; };
+		6D6C9A8C28F4257A00C37455 /* CustomView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				6D6C9A6428F3FCA000C37455 /* Preview Content */,
 				6D6C9A8828F4037600C37455 /* Model.swift */,
 				6D6C9A8A28F4038500C37455 /* ViewModel.swift */,
+				6D6C9A8C28F4257A00C37455 /* CustomView.swift */,
 			);
 			path = StudyAPI;
 			sourceTree = "<group>";
@@ -263,6 +266,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6D6C9A8D28F4257A00C37455 /* CustomView.swift in Sources */,
 				6D6C9A8928F4037600C37455 /* Model.swift in Sources */,
 				6D6C9A6128F3FC9B00C37455 /* ContentView.swift in Sources */,
 				6D6C9A8B28F4038500C37455 /* ViewModel.swift in Sources */,
